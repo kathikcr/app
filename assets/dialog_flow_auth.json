@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "greywatermanagementflutte-9vvn",
+  "private_key_id": "870377580ed437023631266f4265723a1eb0272a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCoWFFPrwHGeNR\nRnckNFq9RFBCjenTiz9O3RZk4o39Xw1+xbg4pWbySBpdCilmNpA/boeRifJ6MbOw\nVg4xoCyOX1RJuzSYnI0/HAt6/ls2t++xppASFVJfq2K9NbhPIh89xADRr/uhjFhV\ncueKj37EvAh3sqCtQptBDaRhONavC6mgRWmTLdYtQJK7ujtA1LkKaTXp7YxBcXeM\no7HJ0iUMkykvkWIsn3pNXneUSDkqZwNt2IiDxKtJqlUmUHz/Jr3iqahc5FxNI9/U\nNFlj4kabpqFsU5UjI2QuD03zABmKTa/H22FaEQwAlZacN1IcKz5aEhRgmkbXCAfP\ng7htnQqtAgMBAAECggEAANbL53SIwFbUcldBxRRyuSjX2vd02c37RiAd7mfufJ8K\n1YIjvFRQxXq469Ch2+3k27t47ntwebfP0gzjV3CCGEsN/xEerBhtv9m1UNh5z7C5\nFhJmDFWhRzpLNBQpG/yYuUQTjgN9hqoqGiMhyP8p0n32Zhp+acCdqFfpDjIgFdRE\nWsLrZsfRvuX+fnEy8xSBvEaY3rq/HZLCfjkW9lEA7rl532Nhwo30d+g7/yeiSwxU\nWdRz2pQBNV7MmHeY+0WpdKVL/tA0WPR0cXzSj1Xf+qYteH7UFCcZFu2x1oKnv4E8\neA5AW+6w8m/h5cgGedVPlninuKSbmnkhEWwwjc8NsQKBgQDnc+/EIsOuN9eve0yn\n5ZVCmgqfgvbI+ppxMkzlKBbjA/BmZLZI2y8SxHP/ru85icG5rylEZJJ1RhXrym3O\nBamhxuTZQKsg8hCA9YTmBj/K6p+pB2T2JMXMF/TQ20670NVrJNr7H+NZysHBo9TA\nw5AHJIuqADhf7wnYeKwjZHawnQKBgQDXRbGxyQM19WyZYLmxAT8M3/4ie8W55koz\n8TgyuMM+yDYpd9lDV0VdbImlDcRK0lqzLVP9MQ0eAUE9OsZUe4QWyckQcHvXuX1E\nFi9/80DQNgo9EHZOSIrsBNnrVysSMaMnDj+n8rAYKCtTYuaYBxj7gkgKmM926IJX\n83LMtFT9UQKBgDYs4PZb3MmusIGWrr6t8l4AiHQFx5YLcpMEXxNUaucASQjukexD\nwaT27t/uJnilUf8QjOxBTja9DOyAGWubz7TaRT7E8Elp34sP7Oealtv8RxrdbDhh\nKxs2kEtCyg8UNqA5pDgboq+l0extWKM2I0RIvZgxLQDnhrpwpHo0TcPRAoGBANAb\ntBjm9o+nXwE3nMwdJFLSB+BWP2Pj2UA1pdqC+10qOBIGpqaPK6ORVc+Wa3jZuo0U\n+OkADmo/VE5ZD3qEncFZ+WJHG7IEw7CasfjDtJiUZXl6/KPZRVO9rN3yOtUv30XW\nZHt8BfiUfK30InA+DEy4OeTkrUuKotdbplN20eLBAoGAHea/G6rh5gc0j6NtuWDw\niEx4pEnYU+EqPQ0PinKk2J8z1/dMe+3GjVdKO8T2SDY2u4/nxrF+c4TWFk8Nltlf\nfU473lpc2d8XA3mWbvNWvvsNo+i0Fty5kp54UyszcAc5839FYYCsqoLI0GBEP8Nu\nZi+MicU/+rllGbC5BNIjG9c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "greywaterflutterbot@greywatermanagementflutte-9vvn.iam.gserviceaccount.com",
+  "client_id": "103888351045818497938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/greywaterflutterbot%40greywatermanagementflutte-9vvn.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
