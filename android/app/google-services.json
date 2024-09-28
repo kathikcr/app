@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "931150287092",
+    "firebase_url": "https://sihtesting-default-rtdb.firebaseio.com",
+    "project_id": "sihtesting",
+    "storage_bucket": "sihtesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931150287092:android:accc2c7eaa6581dbf38ea1",
+        "android_client_info": {
+          "package_name": "com.example.front_end_sih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMM0PTdrhm-eTGprjfY5_Br2Am2lgH9RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
